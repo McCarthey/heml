@@ -1,0 +1,145 @@
+<heml>
+  <head>
+    <subject>Thank You For Subscribing to Luxy Newsletter</subject>
+    <preview>Thank You For Subscribing to Luxy Newsletter.You will now get regular updates on the App news, special offers, dating tips and more high-quality profiles!</preview>
+    <style>
+      body { background: #E5E8EB; font-family: GloberRegular;}
+      container { max-width: 100vw;}
+      h1 { color: DarkViolet; }
+      .logo-wrap { background: url(https://img.hellobyebye.com/fe2570e3df5816a3afbd0da9c95d80fd.jpg) no-repeat 100%/cover; width:100vw;max-width:600px;height:147px;text-align:left;margin: 0 auto;padding: 0 13px;}
+      .logo { height: 34px;margin: 26px auto 26px 10px;}
+      .logo-right { height: 34px;margin: 26px 10px 26px auto;}
+      .upper { width:94%; max-width: 600px;margin: 0 auto;background-color:#fff;border-radius: 4px 4px 0 0;padding:24px 13px 35px;}
+      .middle { width:94%; max-width: 600px;margin: 0 auto;background-color:#fff;border-radius: 4px 4px 0 0;padding:24px 13px;padding-bottom:16px;}
+      .middle-text {background: #fff;border-bottom:1px solid #E5E8EB;max-width: 600px;margin: 0 auto;padding: 0 13px;}
+      .middle-item { font-weight: bold; margin-bottom: 30px;}
+      .middle-img-wrap {height: 60px; text-align: center;}
+      .middle-img { width:49px; display:inline;}
+	  .email-title { font-size: 24px;margin-bottom: 20px; line-height:1.4; color: #CDA777; text-align: center; width: 80%; margin: 0 auto;}
+      .title {color:#CDA777;font-size:24px;margin-bottom:20px;}
+      .text { text-align:center; color:#333; font-size: 13px; margin: 0 0 10px 0;}
+      .text-bold { font-weight: bold;}
+      .text-info { color: #A4A4A4;}
+      .text-link {color: #CDA777;font-size: 18px; height: 54px; line-height: 40px;}
+      .text-email { text-decoration: none; font-weight:normal; color: #CDA777;}
+      .text-placeholder { font-size: 0px; color: transparent;}
+      .bottom {width:94%; max-width: 600px;margin: 0 auto;background-color:#fff;border-radius:  0 0 4px 4px;padding:10px 13px 8px;}
+      .btn-meetup { width: 200px;text-decoration:none;color:#fff;background-color:#CDA777;height:44px;display:block;margin:40px auto 15px;border-radius:22px;text-align:center;line-height:44px;box-shadow: 0px 10px 20px rgba(205, 167, 119, 0.4)}
+      .person-img-wrap { box-shadow: 0 6px 12px rgba(0,0,0,0.10);border-radius: 4px; }
+	  .person-img { width: 100%;}
+      .person-name {text-align:left; font-size: 18px; padding:20px 16px 0px;}
+      .person-addr {text-align:left; font-size: 14px; color:#666666; padding:0 16px 4px;}
+	  .person-des {text-align:left; font-size: 14px; color:#666666; padding:16px 16px 24px; border-top: 1px solid #F1F1F1; border-bottom: 1px solid #F1F1F1;}
+      .contact {color:#B6B8BA; font-size:13px; margin:16px auto 0;}
+      .link {color: #4A6FE1;text-decoration:none;}
+      .icon-wrap {text-align:center;}
+      .follow { max-width: 600px; margin: 0 auto;padding:18px 16px 0px 16px;box-sizing:border-box;text-align:center; }
+      
+      .footer { color:#ccc; font-size:12px; margin:20px auto 40px;}
+    </style>
+  </head>
+  <body>
+    <container>
+      <row class="logo-wrap">
+        <column small="6">
+          <a href="https://www.onluxy.com/deeplink">
+            <img src="https://www.onluxy.com/static/images/f_email/Logo.png" class="logo" />
+          </a>
+        </column>
+        <column small="6">
+          <a href="https://www.onluxy.com/deeplink">
+            <img src="https://img.hellobyebye.com/de5d64bb0f1ac229fe8ffffa8d372189.jpg" class="logo-right" />
+          </a>
+        </column>
+      </row>
+      <container>
+      <row class="upper" style="margin: 0 auto;border-bottom:1px solid #E5E8EB;">
+        <column>
+          <p class="text email-title">There are elite and attractive people in your area right now!</p>
+
+          <p class="text">Let Luxy lose on your love life and match you with someone incredible. </p>
+
+		  <p class="text">With one out of every two active members on Luxy earning more than 500K, Luxy is the best millionaire dating application for people like you. And with 41% being income verified to be earning more than 1M+, what are you waiting for? Find and match with that person you've always dreamed of today!</p>
+
+		  <p class="text">Successful people deserve a successful love life. Embrace Luxy today!</p>
+		  
+		  <p class="text text-bold" style="width:90%; margin: 20px auto 0;">Don't want to miss? Add <a class="text-email" href="mailto:luxyer@onluxy.com">luxyer@onluxy.com</a> to your address book</p>
+          
+        </column>
+      </row>
+      
+      <a href="https://www.onluxy.com/deeplink" style="text-decoration:none;">
+      <container class="bottom">
+        <row>
+          <column>
+            <div class="person-img-wrap" style="margin:0 2px 30px auto;">
+              <img src="https://img.hellobyebye.com/7a9b9898677da7ce3f2c71c34b7d4e44.jpg" class="person-img" />
+              <p class="person-name">Tom Griffiths, 35</p>
+              <p class="person-addr">Artist / New York </p>
+              <p class="person-des">I'm funny, outgoing and adventurous with a love for cars. I enjoy going out for dinner, as well as going to see soccer games. I'm looking for someone who is down to earth, and open to adventure.</p>
+			  <p class="text-link">Chat now</p>
+			</div>
+          </column>
+        </row>
+        
+        <row>
+          <column>
+            <div class="person-img-wrap" style="margin:0 2px 0 auto;">
+              <img src="https://img.hellobyebye.com/d86ecb6efa4f73e61f187afeacf808f2.jpg" class="person-img" />
+              <p class="person-name">Parker Whitson, 32</p>
+              <p class="person-addr">Lawyer / New York </p>
+              <p class="person-des">I love to travel and to see live music. I want someone who wants to travel the world with me, and someone who I can be myself around. I'm looking for someone who is outgoing, but also kind hearted. </p>
+			  <p class="text-link">Chat now</p>
+			</div>
+          </column>
+		</row>
+		
+		<row>
+          <column>
+            <p class="text" style="margin-top: 12px;">
+				<span style="font-size:14px; color: #A4A4A4;">Don't want to receive this email again?</span>
+				<br>
+				<a href="https://www.onluxy.com/static/email_template/%unsubscribe_url%" style="color: #0084FF">Unsubscribe here.</a>
+			</p>
+          </column>
+		</row>
+	  </container>
+      </a>
+      </container>
+      
+      <block class="follow">
+        <row>
+          <column><p>Follow us:</p></column>
+        </row>
+        <block>
+          <row style="max-width:300px;margin:0 auto;">
+            <column large="4" small="1">
+              <p class="text-placeholder" style="font-size:0px;"></p>
+            </column>
+            <column large="4" small="2" class="icon-wrap">
+            <img border="0" src="http://luxyimg.s3.amazonaws.com/a2bf6a768668a6a8379c3bc072171ad5.jpg" style="display:inline-block;width:36px;height:36px;margin:0 auto;">
+            </column>
+            <column large="4" small="2" class="icon-wrap">
+            <img border="0" src="http://luxyimg.s3.amazonaws.com/2f254f2d534c4c400b8b3c8ff964d3eb.jpg" style="display:inline-block;width:36px;height:36px;margin:0 auto;">
+            </column>
+            <column large="4" small="2" class="icon-wrap">
+            <img border="0" src="http://luxyimg.s3.amazonaws.com/0ebaa987d423553e31fa7b7bd5ac0a82.jpg" style="display:inline-block;width:36px;height:36px;margin:0 auto;">
+            </column>
+            <column large="4" small="2" class="icon-wrap">
+            <img border="0" src="http://luxyimg.s3.amazonaws.com/e2c8207424329b2d025bb1e191bd454a.jpg" style="display:inline-block;width:36px;height:36px;margin:0 auto;">
+            </column>
+            <column large="4" small="2" class="icon-wrap">
+            <img border="0" src="http://luxyimg.s3.amazonaws.com/834a4d06ba28f22aa1a6122941fa1c4a.jpg" style="display:inline-block;width:36px;height:36px;margin:0 auto;">
+            </column>
+            <column large="4" small="1">
+              <p class="text-placeholder" style="font-size:0px;"></p>
+            </column>
+          </row>
+        </block>
+        <row>
+          <column><p class="footer">© 2018 Luxy Inc</p></column>
+        </row>
+      </block>
+    </container>
+  </body>
+</heml>

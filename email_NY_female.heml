@@ -67,29 +67,32 @@
         </column>
       </row>
       
-      <a href="https://www.onluxy.com/deeplink" style="text-decoration:none;">
       <container class="bottom">
         <row>
           <column>
-            <div class="person-img-wrap" style="margin:6px auto 0; max-width: 380px;">
-              <img src="https://img.hellobyebye.com/7a9b9898677da7ce3f2c71c34b7d4e44.jpg" class="person-img" />
-              <p class="person-name">Tom Griffiths, 35</p>
-              <p class="person-addr">Artist / New York </p>
-              <p class="person-des">I'm funny, outgoing and adventurous with a love for cars. I enjoy going out for dinner, as well as going to see soccer games. I'm looking for someone who is down to earth, and open to adventure.</p>
-			  <p class="text-link">Chat now</p>
-			</div>
+			<a href="https://www.onluxy.com/deeplink" style="text-decoration:none;">
+				<div class="person-img-wrap" style="margin:6px auto 0; max-width: 380px;">
+				<img src="https://img.hellobyebye.com/7a9b9898677da7ce3f2c71c34b7d4e44.jpg" class="person-img" />
+				<p class="person-name">Tom Griffiths, 35</p>
+				<p class="person-addr">Artist / New York </p>
+				<p class="person-des">I'm funny, outgoing and adventurous with a love for cars. I enjoy going out for dinner, as well as going to see soccer games. I'm looking for someone who is down to earth, and open to adventure.</p>
+				<p class="text-link">Chat now</p>
+				</div>
+			</a>
           </column>
         </row>
         
         <row>
           <column>
-            <div class="person-img-wrap" style="margin:30px auto 0; max-width: 380px;">
-              <img src="https://img.hellobyebye.com/d86ecb6efa4f73e61f187afeacf808f2.jpg" class="person-img" />
-              <p class="person-name">Parker Whitson, 32</p>
-              <p class="person-addr">Lawyer / New York </p>
-              <p class="person-des">I love to travel and to see live music. I want someone who wants to travel the world with me, and someone who I can be myself around. I'm looking for someone who is outgoing, but also kind hearted. </p>
-			  <p class="text-link">Chat now</p>
-			</div>
+			<a href="https://www.onluxy.com/deeplink" style="text-decoration:none;">
+				<div class="person-img-wrap" style="margin:30px auto 0; max-width: 380px;">
+				<img src="https://img.hellobyebye.com/d86ecb6efa4f73e61f187afeacf808f2.jpg" class="person-img" />
+				<p class="person-name">Parker Whitson, 32</p>
+				<p class="person-addr">Lawyer / New York </p>
+				<p class="person-des">I love to travel and to see live music. I want someone who wants to travel the world with me, and someone who I can be myself around. I'm looking for someone who is outgoing, but also kind hearted. </p>
+				<p class="text-link">Chat now</p>
+				</div>
+			</a>
           </column>
 		</row>
 		

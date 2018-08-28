@@ -1,0 +1,1 @@
+heml build email_MIA_female.heml && heml build email_MIA_male.heml && heml build email_NY_male.heml && heml build email_NY_female.heml

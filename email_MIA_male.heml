@@ -71,7 +71,7 @@
       <container class="bottom">
         <row>
           <column>
-            <div class="person-img-wrap" style="margin:0 2px 30px auto;">
+            <div class="person-img-wrap" style="margin:6px auto 0; max-width: 380px;">
               <img src="https://img.hellobyebye.com/ff377330dd8ba5129722ba1bf70145ed.jpg" class="person-img" />
               <p class="person-name">Jenna Anderson, 29</p>
               <p class="person-addr">Artist / Miami </p>
@@ -83,7 +83,7 @@
         
         <row>
           <column>
-            <div class="person-img-wrap" style="margin:0 2px 0 auto;">
+            <div class="person-img-wrap" style="margin:30px auto 0; max-width: 380px;">
               <img src="https://img.hellobyebye.com/756b62d84fc9571ba95f82287e9ccb63.jpg" class="person-img" />
               <p class="person-name">Miguel Runa, 32</p>
               <p class="person-addr">Manager / Miami </p>

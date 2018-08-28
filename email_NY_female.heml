@@ -71,7 +71,7 @@
       <container class="bottom">
         <row>
           <column>
-            <div class="person-img-wrap" style="margin:0 2px 30px auto;">
+            <div class="person-img-wrap" style="margin:6px auto 0; max-width: 380px;">
               <img src="https://img.hellobyebye.com/7a9b9898677da7ce3f2c71c34b7d4e44.jpg" class="person-img" />
               <p class="person-name">Tom Griffiths, 35</p>
               <p class="person-addr">Artist / New York </p>
@@ -83,7 +83,7 @@
         
         <row>
           <column>
-            <div class="person-img-wrap" style="margin:0 2px 0 auto;">
+            <div class="person-img-wrap" style="margin:30px auto 0; max-width: 380px;">
               <img src="https://img.hellobyebye.com/d86ecb6efa4f73e61f187afeacf808f2.jpg" class="person-img" />
               <p class="person-name">Parker Whitson, 32</p>
               <p class="person-addr">Lawyer / New York </p>

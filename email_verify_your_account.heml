@@ -9,7 +9,8 @@
 	  a { color: #0076FF;}
       .logo-wrap { background-color: #333; width:100vw;height:140px;text-align:left;}
       .logo { height: 33px;margin: 26px auto;}
-      .upper { width:94%; max-width: 600px;margin: 0 auto;background-color:#fff;margin-top:-50px; border-radius: 4px 4px 0 0;padding:20px;padding-bottom:16px;box-sizing: border-box; border-bottom:1px solid #E5E8EB;}
+      .upper { width:94%; max-width: 600px;margin: 0 auto;background-color:#fff;margin-top:-50px; border-radius: 4px 4px 0 0;padding:20px;padding-bottom:0;box-sizing: border-box;}
+      .line { background-color: #E5E8EB; height: 1px; width: 100%; margin:0 auto 20px;}
 	  .dear { font-size: 20px;}
       .title { text-align: center; color:#CDA777;font-size:24px;margin:0;font-weight: normal;}
       .text { text-align: center; color:#333; font-size: 16px; margin: 0; font-weight: normal; line-height: 21px;}
@@ -40,15 +41,16 @@
       <row class="upper">
         <column>
 		  <h1 class="title">Verify Your Luxy Account<h1>
-          <p class="text">Hi dear {{NAME}},</p>
+          <p class="text">Dear {{NAME}},</p>
 
-          <p class="text">Welcome to Luxy! This email is for you to verify your email address. Please click the button below to activate.</p>
+          <p class="text">This email is for you to verify your email address. Please click the button below to activate.</p>
 
 		  <a href="{{URL}}" class="btn-verify">Verify Your Account</a>
         </column>
       </row>
       <row class="bottom">
 	    <column>
+      <div class="line"></div>
 		  <p class="info">If you cannot access this link, copy and paste your entire URL to your browser:<a class="{{URL}}">{{URL}}</a>
 		  </p>
 		  <p class="info">Not you? If it wasn't you who registered the account, please contact us at <a href="mailto:support@onluxy.com">support@onluxy.com</a></p>

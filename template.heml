@@ -1,7 +1,7 @@
 <heml>
   <head>
-    <subject>subject</subject>
-    <preview>preview</preview>
+    <subject>TODO:</subject>
+    <preview>TODO:</preview>
     <style>
       body { background: #E5E8EB; }
       container { max-width: 100vw;}
@@ -9,7 +9,8 @@
 	  a { color: #0076FF;}
       .logo-wrap { background-color: #333; width:100vw;height:140px;text-align:left;}
       .logo { height: 33px;margin: 26px auto;}
-      .upper { width:94%; max-width: 600px;margin: 0 auto;background-color:#fff;margin-top:-50px; border-radius: 4px 4px 0 0;padding:20px;padding-bottom:16px;box-sizing: border-box; border-bottom:1px solid #E5E8EB;}
+      .upper { width:94%; max-width: 600px;margin: 0 auto;background-color:#fff;margin-top:-50px; border-radius: 4px 4px 0 0;padding:20px;padding-bottom:0;box-sizing: border-box;}
+      .line { background-color: #E5E8EB; height: 1px; width: 100%; margin:0 auto 20px;}
 	  .dear { font-size: 20px;}
       .title { text-align: center; color:#CDA777;font-size:24px;margin:0;font-weight: normal;}
       .text { text-align: center; color:#333; font-size: 16px; margin: 0; font-weight: normal; line-height: 21px;}
@@ -39,16 +40,17 @@
       </row>
       <row class="upper">
         <column>
-		  <h1 class="title">title<h1>
-          <p class="text">Hi dear {{NAME}},</p>
+		  <h1 class="title">TODO:<h1>
+          <p class="text">Dear {{NAME}},</p>
 
-          <p class="text"> text area </p>
+          <p class="text">TODO:</p>
 
-		  <a href="{{URL}}" class="btn-verify"> btn text </a>
+		  <a href="{{URL}}" class="btn-verify">TODO:</a>
         </column>
       </row>
       <row class="bottom">
 	    <column>
+      <div class="line"></div>
 		  <p class="info">If you cannot access this link, copy and paste your entire URL to your browser:<a class="{{URL}}">{{URL}}</a>
 		  </p>
 		  <p class="info">Not you? If it wasn't you who registered the account, please contact us at <a href="mailto:support@onluxy.com">support@onluxy.com</a></p>

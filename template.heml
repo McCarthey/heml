@@ -9,7 +9,7 @@
 	  a { color: #0076FF;}
       .logo-wrap { background-color: #333; width:100vw;height:140px;text-align:left;}
       .logo { height: 33px;margin: 26px auto;}
-      .upper { width:94%; max-width: 600px;margin: 0 auto;background-color:#fff;margin-top:-50px; border-radius: 4px 4px 0 0;padding:20px;padding-bottom:0;box-sizing: border-box;}
+      .upper { width:94%; max-width: 600px;margin: 0 auto;background-color:#fff;border-radius: 4px 4px 0 0;padding:20px;padding-bottom:0;box-sizing: border-box;}
       .line { background-color: #E5E8EB; height: 1px; width: 100%; margin:0 auto 20px;}
 	  .dear { font-size: 20px;}
       .title { text-align: center; color:#CDA777;font-size:24px;margin:0;font-weight: normal;}
@@ -38,7 +38,7 @@
       <row class="logo-wrap">
         <column><img src="https://www.onluxy.com/static/images/f_email/Logo.png" class="logo" /></column>
       </row>
-      <row class="upper">
+      <row class="upper" style="margin: 0 auto;">
         <column>
 		  <h1 class="title">TODO:<h1>
           <p class="text">Dear {{NAME}},</p>

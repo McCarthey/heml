@@ -9,7 +9,7 @@
 	  a { color: #0076FF;}
       .logo-wrap { background-color: #333; width:100vw;height:140px;text-align:left;}
       .logo { height: 33px;margin: 26px auto;}
-      .upper { width:94%; max-width: 600px;margin: 0 auto;background-color:#fff;margin-top:-50px; border-radius: 4px 4px 0 0;padding:20px;padding-bottom:16px;box-sizing: border-box; border-bottom:1px solid #E5E8EB;}
+      .upper { width:94%; max-width: 600px;margin: 0 auto;background-color:#fff; border-radius: 4px 4px 0 0;padding:20px;padding-bottom:16px;box-sizing: border-box; border-bottom:1px solid #E5E8EB;}
       .img-banner { width: 100%;}
 	    .dear { font-size: 20px;}
       .title { text-align: center; color:#CDA777;font-size:22px;margin:10px 0 0;font-weight: normal;}
@@ -38,7 +38,7 @@
       <row class="logo-wrap">
         <column><img src="https://www.onluxy.com/static/images/f_email/Logo.png" class="logo" /></column>
       </row>
-      <row class="upper">
+      <row class="upper" style="margin: 0 auto;">
         <column>
           <img border="0" src="https://img.hellobyebye.com/dd83866d84b5a7bca44dff4125e56927.jpg" class="img-banner">
           

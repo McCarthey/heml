@@ -1,5 +1,6 @@
-# build 3 new emails for luxy (verify, forget_password, vouch_out)  
-heml build email_vouch_out.heml && heml build email_forget_my_password.heml && heml build email_verify_your_account.heml && 
-cp email_vouch_out.html /d/onluxy/static/email_template/ &&
-cp email_forget_my_password.html /d/onluxy/static/email_template/ &&
-cp email_verify_your_account.html /d/onluxy/static/email_template/
+# build 4 new emails for luxy (welcome, message, match)  
+heml build email_welcome.heml && heml build email_single_message.heml && heml build email_more_messages.heml && heml build email_match.heml && 
+cp email_welcome.html /d/onluxy/static/email_template/ &&
+cp email_single_message.html /d/onluxy/static/email_template/ &&
+cp email_more_messages.html /d/onluxy/static/email_template/ &&
+cp email_match.html /d/onluxy/static/email_template/ 

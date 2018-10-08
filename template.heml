@@ -7,7 +7,10 @@
       container { max-width: 100vw;}
       h1 { color: DarkViolet; }
 	  a { color: #0076FF;}
-      .logo-wrap { background-color: #333; width:100vw;height:140px;text-align:left;}
+      .head-bg-wrap { background:#7000e3;height:0;max-height:0;overflow:visible; }
+	    .head-bg { background:#333;height:140px;width:100% }
+	  
+      .logo-wrap { background-color: #333; width:100vw;height:80px;text-align:left;}
       .logo { height: 33px;margin: 26px auto;}
       .upper { width:94%; max-width: 600px;margin: 0 auto;background-color:#fff;border-radius: 4px 4px 0 0;padding:20px;padding-bottom:0;box-sizing: border-box;}
       .line { background-color: #E5E8EB; height: 1px; width: 100%; margin:0 auto 20px;}
@@ -35,6 +38,9 @@
   </head>
   <body>
     <container>
+      <div class="head-bg-wrap">
+        <div class="head-bg"></div>
+      </div>
       <row class="logo-wrap">
         <column><img src="https://www.onluxy.com/static/images/f_email/Logo.png" class="logo" /></column>
       </row>

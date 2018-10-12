@@ -49,7 +49,7 @@
         <column>
           <p class="text name">Dear {{NAME}},</p>
 
-          <p class="text">You Luxy BLACK membership has expired on 12/10/2018.
+          <p class="text">You Luxy BLACK membership has expired on {{EXPIREDATE}}.
 			<br>
 			<br>
 			To continue to receive all of our great member benefits: Such as BLACK Messages, Unlimited Swipes, the access to Who Likes Me list etc…Please renew the subscription.
@@ -59,7 +59,7 @@
 			<br>
 		</p>
 
-		  <a href="{{URL}}" class="btn-verify">Launch Luxy now</a>
+		  <a href="https://www.onluxy.com/deeplink" class="btn-verify">Launch Luxy now</a>
         </column>
       </row>
 	  

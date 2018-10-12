@@ -53,7 +53,7 @@
           
           <p class="text">Congratulations! Your Luxy BLACK membership is active now. As the best upscale dating site, we will be constantly providing you the most quality services. Hope you find your perfect match on Luxy!</p>
 
-		  <a href="{{URL}}" class="btn-verify">Launch Luxy now</a>
+		  <a href="https://www.onluxy.com/deeplink" class="btn-verify">Launch Luxy now</a>
         </column>
       </row>
 	  
